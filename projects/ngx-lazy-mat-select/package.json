@@ -1,12 +1,12 @@
 {
   "name": "ngx-lazy-mat-select",
   "version": "0.0.1",
-  "author": "Ararat Harutyunyan",
+  "author": "Ararat7",
   "description": "Lazy load for mat-select",
   "peerDependencies": {
-    "@angular/common": ">=15.0.0",
-    "@angular/core": ">=15.0.0",
-    "@angular/material": ">=15.0.0"
+    "@angular/common": ">=14.0.0",
+    "@angular/core": ">=14.0.0",
+    "@angular/material": ">=14.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
